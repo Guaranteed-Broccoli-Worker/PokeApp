@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\brend\\.nuget\\packages\\": {},
+    "C:\\Users\\plagu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brend\\Desktop\\dotnet apps\\PokeApp\\PokeApp\\PokeApp.csproj",
+      "projectUniqueName": "C:\\Users\\plagu\\Desktop\\dotNet\\PokeApp\\PokeApp\\PokeApp.csproj",
       "projectName": "PokeApp",
-      "projectPath": "C:\\Users\\brend\\Desktop\\dotnet apps\\PokeApp\\PokeApp\\PokeApp.csproj",
-      "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brend\\Desktop\\dotnet apps\\PokeApp\\PokeApp\\obj\\",
+      "projectPath": "C:\\Users\\plagu\\Desktop\\dotNet\\PokeApp\\PokeApp\\PokeApp.csproj",
+      "packagesPath": "C:\\Users\\plagu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\plagu\\Desktop\\dotNet\\PokeApp\\PokeApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\plagu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
