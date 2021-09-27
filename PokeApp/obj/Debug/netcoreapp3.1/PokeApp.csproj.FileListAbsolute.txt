@@ -18,3 +18,13 @@ C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\obj\Debug\netcoreapp3.1\PokeA
 C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\obj\Debug\netcoreapp3.1\PokeApp.dll
 C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\obj\Debug\netcoreapp3.1\PokeApp.pdb
 C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\obj\Debug\netcoreapp3.1\PokeApp.genruntimeconfig.cache
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\PokeApiNet.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\brend\Desktop\dotnet apps\PokeApp\PokeApp\obj\Debug\netcoreapp3.1\PokeApp.csproj.CopyComplete
