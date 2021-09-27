@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "ZoI8Nz8Qh4JiYQVAk414hsj4JXFgZ+chrK7EwGHYSVztXoeyqHo5hdf8mJqh+ejmKI+bfs/Dc+VpNErAJPrPRQ==",
+  "dgSpecHash": "4TRG64UvqxzAcJ6RQDhUqby9jL5elP6qW4ZFNr3X5KCxt4GpFEsJmbItstIWS+1wt7veCbWJ8dtUKH2KBW8lUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brend\\Desktop\\dotnet apps\\PokeApp\\PokeApp\\PokeApp.csproj",
+  "projectFilePath": "C:\\Users\\plagu\\Desktop\\dotNet\\PokeApp\\PokeApp\\PokeApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.0\\microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.0\\microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\pokeapinet\\3.0.3\\pokeapinet.3.0.3.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
-    "C:\\Users\\brend\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512"
+    "C:\\Users\\plagu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.0\\microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.0\\microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\pokeapinet\\3.0.3\\pokeapinet.3.0.3.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
+    "C:\\Users\\plagu\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }

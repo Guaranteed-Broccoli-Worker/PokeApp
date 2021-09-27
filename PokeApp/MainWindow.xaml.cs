@@ -19,6 +19,7 @@ namespace PokeApp
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// comment
     public partial class MainWindow : Window
     {
         public MainWindow()
