@@ -23,6 +23,7 @@
             <Label Grid.Row="2" Content="Password" />
             <PasswordBox  Margin="0 5 0 5" Grid.Row="3" />
             <Button Grid.Row="4" Content="Login" />
+			<!-- This is how you would make a comment here :D -->
         </Grid>
     </StackPanel>
 </Window>
